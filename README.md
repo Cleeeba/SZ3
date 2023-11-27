@@ -48,7 +48,7 @@ SZ3: A Modular Error-bounded Lossy Compression Framework for Scientific Datasets
 ## Installation
 
 * mkdir build && cd build
-* cmake -DCMAKE_INSTALL_PREFIX:PATH=[INSTALL_DIR] ..
+* cmake -DCMAKE_INSTALL_PREFIX:PATH=[C:\Users\bincl\BA-Thesis\SZ3\Install]..
 * make
 * make install
 
